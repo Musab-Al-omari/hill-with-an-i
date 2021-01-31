@@ -1,0 +1,36 @@
+/* universal Selector */
+/* ohh*/
+
+html body header nav {
+    color: lightsalmon;
+    padding:20px,20px,0,30px;
+    align-content: center;
+}
+html body header nav li {
+    color: rgb(20, 80, 66);
+    background-color: salmon;
+ }
+html body main {
+    color:red;
+    background-color: blue;
+}
+html body main h2,p {
+    color: hsl(60, 90, 15)
+    ;background-color: indigo;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
